@@ -4,4 +4,5 @@ Femme à 200HP sur FiveM
 #Start sur server.cfg
 
 ```
-ensure PV200-FIVEM
+ensure PV-FIVEM
+```
